@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8386a33ebdcd27e9",
+            "id": "8fe5d0e3b2f5fead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes.md",
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a39530e3c1cf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "getting started with hyprland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918084b1bd4b56ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "17be345b572736bc",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -147,10 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8386a33ebdcd27e9",
+  "active": "8fe5d0e3b2f5fead",
   "lastOpenFiles": [
-    "Linux Notes.md",
-    "setup.md",
-    "Project Lineage OS(success).md"
+    "Programming.md",
+    "getting started with hyprland.md",
+    "Linux.md",
+    "Project Lineage OS(success).md",
+    "README.md",
+    "setup.md"
   ]
 }
