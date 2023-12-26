@@ -11,6 +11,7 @@ https://github.com/geohot/fromthetransistor
 https://docs.python.org/3/tutorial/index.html - python
 https://linux.die.net/ - linux
 https://www.gnu.org/software/bash/manual/bash.html - bash
+https://zsh.sourceforge.io/Intro/intro_toc.html - zsh
 
 Not to do:
 http://catb.org/~esr/html-hell.html
@@ -23,3 +24,24 @@ https://www.c0ffee.net/blog/mail-server-guide
 http://www.catb.org/~esr/faqs/smart-questions.html
 https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles/
 github.com/alex/what-happens-when#the-gkey-is-pressed
+
+#usefultools
+- ansible
+- dotfiles
+	- GNU stow
+	- Dotfiles management
+	- yadm & Setup tools
+- Terminals
+	- Navigation & window management
+	- shell
+	- terminal and multiplexing
+- tmux
+	- basic tmux commands
+- bash
+	- fxf
+	- writing scripts with bash
+- tools
+	- git worktrees
+	- git log
+	- linux core utils
+	- sed
