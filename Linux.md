@@ -8,28 +8,25 @@ general linux q and dos
 https://youtube.com/playlist?list=PLnur5_dvCveFGV8tKbH9sdqOSBUlFNQrR&si=2XVVc2uN7zo8L6F1
 zsh
 https://youtube.com/playlist?list=PLnur5_dvCveHNoT1H5e7PyYcEnyD4MAef&si=o8GIfVEOEafO-dcr
-git
-https://youtube.com/playlist?list=PLnur5_dvCveFYir58ouKITFvVqUc7R5ND&si=M968S5aKm0wgEhwo
 
-#pacmanconfig
-sed -i "s/^#ParallelDownloads = 5$/ParallelDownloads = 15/" /etc/pacman.config
-IgnorePkg = linux
-color
-checkSPace
 # useful packages
 
-https://github.com/AdnanHodzic/auto-cpufreq?tab=readme-ov-file#why-do-i-need-auto-cpufreq
+## for power saving
+auto-cpufreq
+tlp
+thermald
+
 https://espanso.org/
 
 screensy.marijn.it
-      tmpfiles.org
-      `0x0` -> `~/bin/0x0`, 0x0.st client (to share public files)
-      scp
-      python -m https:(your_server_name) to share your files to all devices in the network
+tmpfiles.org
+`0x0` -> `~/bin/0x0`, 0x0.st client (to share public files)
+scp
+python -m https:(your_server_name) to share your files to all devices in the network
 
 - `weston-git` `libinput-git` `wayland-git` OR `i3-gaps-next-git` lightweight GUI
 - `firefox` to browse web (or `chromium`, if you want better web experience). **NOTE:** don't forget to configure them to be secure - vivaldi for regular browsing 
-- `youtube-dl` to get your kitty videos from youtube
+- `yt-dlp` to get your kitty videos from youtube
 - `mpv` better than `mplayer`
 - `htop` Best process viewer
 - `ncdu` "NCurses Disk Usage"
@@ -38,7 +35,6 @@ screensy.marijn.it
 - `proxychains-ng` to use proxy on app what doesn't actually support it
 - `linux-pf` TuxOnIce, -ck patchset etc.
 - `weechat` IRC client
-- `rxvt-unicode` best terminal out there
 - `openssh` must-have
 - `socat` Better than `netcat`
 - `python` teh awesome scripting
@@ -46,29 +42,20 @@ screensy.marijn.it
 - `neovim` Best editor
 - `rofi` Menu for
 - `mosh` Mobile shell
-- `feh` To view images and set background on i3
 
 Advanced tools:
 
-- `curl` gorks those URLs
 - `python-pip` and `requests`, `httpie`
 - `ettercap`, `arpspoof`, `sslstrip`, `nftables` take router over and forward packets through your computer
 - `aircrack-ng-svn`, `airdrop-ng-svn` cracks and drops air (if it works)
 - `john` crack passwords
-- `rsync`
 - `gcc` `musl` to make C programs, musl is to make them extra-small (statically)
 - `busybox` (for http server and temporary cgi)
 - ~~`lxc`~~ systemd-nspawn for simple app sandboxing
 - `wireshark` and/or `tcpdump` to sniff packets
 
-- [ ] flameshot
-       xidlehook     
-       bling ([https://github.com/BlingCorp/bling](https://github.com/BlingCorp/bling))  
-       dkjson for lua5.1
 - [ ] paccache
-      libreoffice
-      chromium
-      NixNote
+      onlyoffice
       concky, screenlets
       f.lux
       transmission deluge qbittorrent
@@ -76,8 +63,6 @@ Advanced tools:
       nextcloud - check it out
       Mattersmast - do check it
       logseg - obsidian alternative
-- [ ] linux-lts linux-lts-headers (good to have a extra kernel which is stable)
-- [ ] install microcode
 - [ ] zmfw.sh
 - [ ] preload ( tp speed up the app opening speeds - enable/start using systemctl)
 - [ ] powertop - to check the battery usage
