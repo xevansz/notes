@@ -1,7 +1,7 @@
 # First things first
 
-https://wiki.archlinux.org/title/Arch_Linux
-https://wiki.archlinux.org/title/Frequently_asked_questions
+xdg-ninja to spring clean
+https://wiki.archliux.org/
 
 #refs:
 general linux q and dos
@@ -16,8 +16,12 @@ auto-cpufreq
 tlp
 thermald
 
+cuda - if nvidia doesnt work
+https://dev.to/vitorvargas/how-to-install-the-nvidia-driver-on-archlinux-5bgc
+libva-vdpau-driver-vp9-git r57.509d3b2-4 - vdpau backend for va api
+nvidia driver version 470 for linux
 https://espanso.org/
-
+jitsi - a video conference app
 screensy.marijn.it
 tmpfiles.org
 `0x0` -> `~/bin/0x0`, 0x0.st client (to share public files)
