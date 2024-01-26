@@ -7,6 +7,9 @@ http://www.catb.org/~esr/faqs/hacker-howto.html#skills2
 http://www.catb.org/~esr/faqs/hacking-howto.html
 https://github.com/geohot/fromthetransistor
 
+to learn c++ libraries
+https://youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb&si=MroODuhEeyDtQ-MB
+
 #docs
 https://docs.python.org/3/tutorial/index.html - python
 https://linux.die.net/ - linux
