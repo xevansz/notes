@@ -9,6 +9,7 @@ https://github.com/geohot/fromthetransistor
 
 to learn c++ libraries
 https://youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb&si=MroODuhEeyDtQ-MB
+neural network the coding train yt
 
 #docs
 https://docs.python.org/3/tutorial/index.html - python
