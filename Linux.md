@@ -16,12 +16,14 @@ auto-cpufreq
 tlp
 thermald
 
+# nvidia
 https://www.reddit.com/r/archlinux/comments/rifhom/lost_to_what_nvidia_driver_version_should_i/
 https://linux-hardware.org/?id=pci:10de-1299-1028-06ae
 https://bbs.archlinux.org/viewtopic.php?id=271625
 https://dev.to/vitorvargas/how-to-install-the-nvidia-driver-on-archlinux-5bgc
 libva-vdpau-driver-vp9-git r57.509d3b2-4 - vdpau backend for va api
 nvidia driver version upto 418 for linux
+
 https://espanso.org/
 jitsi - a video conference app
 screensy.marijn.it
