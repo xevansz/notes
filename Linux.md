@@ -1,4 +1,4 @@
-# First things first
+[#](#) First things first
 
 xdg-ninja to spring clean
 https://wiki.archliux.org/
