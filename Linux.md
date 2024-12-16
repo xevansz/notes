@@ -1,5 +1,8 @@
 [#](#) First things first
 
+### add to /etc/default/grub
+GRUB_CMDLINE_LINUX="zswap.enabled=1 rhgb quiet mitigations=off"
+
 /etc/pacman.conf
 parallel donwloads = 15
 
