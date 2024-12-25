@@ -7,9 +7,12 @@ http://www.catb.org/~esr/faqs/hacker-howto.html#skills2
 http://www.catb.org/~esr/faqs/hacking-howto.html
 https://github.com/geohot/fromthetransistor
 
-to learn c++ libraries
+#To learn game dev
 https://youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb&si=MroODuhEeyDtQ-MB
 neural network the coding train yt
+https://learnopengl.com/
+https://vkguide.dev/
+https://www.learncpp.com/
 
 #docs
 https://docs.python.org/3/tutorial/index.html - python
@@ -23,6 +26,7 @@ http://catb.org/~esr/html-hell.html
 #practicestuff
 https://wiby.me/about/guide.html
 https://www.c0ffee.net/blog/mail-server-guide
+https://github.com/WhatsApp/stickers/tree/main/Android
 
 #usefullinks
 http://www.catb.org/~esr/faqs/smart-questions.html
@@ -35,17 +39,9 @@ github.com/alex/what-happens-when#the-gkey-is-pressed
 	- GNU stow
 	- Dotfiles management
 	- yadm & Setup tools
-- Terminals
-	- Navigation & window management
-	- shell
-	- terminal and multiplexing
-- tmux
-	- basic tmux commands
-- bash
-	- fxf
+- Bash
 	- writing scripts with bash
 - tools
-	- git worktrees
-	- git log
 	- linux core utils
 	- sed
+    - git
