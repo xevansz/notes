@@ -70,12 +70,16 @@ Advanced tools:
       nixos package management nix-config-file
 
 
-# KDE stuff
+## KDE stuff
 https://www.reddit.com/r/unixporn/comments/138ht06/kde_catppuccin_setup_of_my_dreams/
 https://www.reddit.com/r/unixporn/comments/uf72ba/kde_kde_plasma_with_polybar/
 Konsave: https://github.com/Prayag2/konsave
 
-# android stuff
+## android stuff
 SeedVault:https://github.com/seedvault-app/seedvault
 Jmptfs
 mptfs
+
+## Windows Debloater
+https://www.reddit.com/r/OptimizedGaming/comments/su6cq7/windows_1011_optimization_guide/
+https://www.revi.cc
