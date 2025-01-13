@@ -1,7 +1,13 @@
 [#](#) First things first
 
+## Windows Debloater
+https://www.reddit.com/r/OptimizedGaming/comments/su6cq7/windows_1011_optimization_guide/
+https://www.revi.cc
+https://github.com/Raphire/Win11Debloat
+chris titus win util
+
 ### add to /etc/default/grub
-GRUB_CMDLINE_LINUX="zswap.enabled=1 rhgb quiet mitigations=off"
+GRUB_CMDLINE_LINUX="mitigations=off"
 
 gnu stow - dotfiles manager
 
@@ -36,13 +42,9 @@ scp
 python -m https:(your_server_name) to share your files to all devices in the network
 
 
-- `yt-dlp`
-- `mpv`
-- `htop`
 - `ncdu`
 - `proxychains-ng` to use proxy on app what doesn't actually support it
 - `linux-pf` TuxOnIce, -ck patchset etc.
-- `weechat` IRC client
 - `openssh` must-have
 - `socat` Better than `netcat`
 
@@ -79,7 +81,3 @@ Konsave: https://github.com/Prayag2/konsave
 SeedVault:https://github.com/seedvault-app/seedvault
 Jmptfs
 mptfs
-
-## Windows Debloater
-https://www.reddit.com/r/OptimizedGaming/comments/su6cq7/windows_1011_optimization_guide/
-https://www.revi.cc
