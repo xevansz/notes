@@ -1,6 +1,14 @@
 '''Tools and concepts. Reading docs for everything is the best way to go about doing anything.
 Everything is a tool and we need to learn how to use it and apply the methods from docs.'''
 
+# fundamentals - Solve real problem's sucker
+Algorithms
+Data Structures
+Clean Code and Solid Principles
+Object Oriented Programming
+Design Patterns
+Distributed Computing
+
 ## links to books
 https://theswissbay.ch/pdf/Gentoomen%20Library/
 
