@@ -1,6 +1,12 @@
 '''Tools and concepts. Reading docs for everything is the best way to go about doing anything.
 Everything is a tool and we need to learn how to use it and apply the methods from docs.'''
 
+### A polymath 
+Curiosity kills the cat huh...
+
+### To continue
+https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/running-programs.html
+
 # fundamentals - Solve real problem's sucker
 Algorithms
 Data Structures
@@ -47,14 +53,5 @@ https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles/
 github.com/alex/what-happens-when#the-gkey-is-pressed
 
 ## usefultools
-- ansible
-- dotfiles
-	- GNU stow
-	- Dotfiles management
-	- yadm & Setup tools
-- Bash
-	- writing scripts with bash
-- tools
-	- linux core utils
-	- sed
-    - git
+https://validator.nu/
+https://validator.w3.org/
