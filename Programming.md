@@ -1,11 +1,16 @@
 '''Tools and concepts. Reading docs for everything is the best way to go about doing anything.
 Everything is a tool and we need to learn how to use it and apply the methods from docs.'''
 
+podcast:
+jordan peterson and charlie kirk - the iced coffee hour 
+
+resources:
+https://www.youtube.com/watch?v=sp3mMwo3PO0 - hardware contorl using memory
+https://www.youtube.com/watch?v=MFSFcPsMsuE - ML projects
+https://www.youtube.com/watch?v=bXCeFPNWjsM - netcat
+
 ### A polymath 
 Curiosity kills the cat huh...
-
-### To continue
-https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/running-programs.html
 
 # fundamentals - Solve real problem's sucker
 Algorithms
@@ -32,12 +37,6 @@ neural network the coding train yt
 https://learnopengl.com/
 https://vkguide.dev/
 https://www.learncpp.com/
-
-## docs
-https://docs.python.org/3/tutorial/index.html - python
-https://linux.die.net/ - linux
-https://www.gnu.org/software/bash/manual/bash.html - bash
-https://zsh.sourceforge.io/Intro/intro_toc.html - zsh
 
 ## how Not to do websites:
 http://catb.org/~esr/html-hell.html
