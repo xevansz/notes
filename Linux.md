@@ -7,9 +7,7 @@ https://github.com/Raphire/Win11Debloat
 chris titus win util
 
 ### add to /etc/default/grub
-GRUB_CMDLINE_LINUX="mitigations=off"
-
-gnu stow - dotfiles manager
+GRUB_CMDLINE_LINUX="mitigations=off" - do it only if it's slow cause it turns of cpu mitigations
 
 /etc/pacman.conf
 parallel donwloads = 15
@@ -23,9 +21,7 @@ xdg-ninja to spring clean
 
 ## for power saving
 - [ ] auto-cpufreq
-- [ ] tlp
-- [ ] thermald
-- [ ] preload
+- [ ] preload - does not provide much overhead for my system
 - [ ] powertop - to check the battery usage
 
 # nvidia

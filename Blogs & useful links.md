@@ -4,3 +4,7 @@
  https://carlosbecker.com/posts/
  https://mitchellh.com/writing
 https://ibpsonline.ibps.in/sbijajul25/  - sbi recruitement clerical post
+
+
+# project ideas
+https://www.youtube.com/watch?v=muJf6SwEaa0
