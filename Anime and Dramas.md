@@ -10,7 +10,17 @@
 ## Drama
 - Word of Honor
 - The Nice Guy
-- Law and the City
 - My Girlfriend Is the Man!
-- Law and the City
 - Only you (thai 2025)
+- sword snow stride
+- A Dream within a Dream
+- When destiny brings the demon
+- love in the clouds
+- Fangs of fortune
+- Double
+- Moonlight Mystic
+- Filter
+- Shadow love
+- I am nobody
+- Love's ambition (give it another chance)
+- 

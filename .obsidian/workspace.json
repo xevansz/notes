@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "34ee5384da260859",
+        "id": "eba4ef77c806cf7a",
         "type": "tabs",
         "children": [
           {
-            "id": "730455567949323c",
+            "id": "c442d5422573a07b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anime and Dramas.md",
+                "file": "Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anime and Dramas"
-            }
-          },
-          {
-            "id": "7e1fc6717379aac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blogs & useful links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blogs & useful links"
+              "title": "Programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,15 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1fc6717379aac1",
+  "active": "c442d5422573a07b",
   "lastOpenFiles": [
-    "Linux.md",
-    "Programming.md",
+    "project ideas & useful links.md",
     "README.md",
+    "System Design.md",
     "tips? CTO.md",
     "Anime and Dramas.md",
-    "to do list.md",
+    "Programming.md",
+    "Plan a project (All the sidequests).md",
+    "First boot.md",
+    "Cybersecurity.md",
     "Exam preparation.md",
-    "Blogs & useful links.md"
+    "to do list.md"
   ]
 }
