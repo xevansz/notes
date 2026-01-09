@@ -1,0 +1,6 @@
+- CS principles
+- Hardware interaction
+- Low level programming
+- operating systems
+- advanced windows
+- exploitation techniques
