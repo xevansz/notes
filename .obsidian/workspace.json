@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming.md",
+                "file": "Anime and Dramas and Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming"
+              "title": "Anime and Dramas and Movies"
             }
           }
         ]
@@ -171,14 +171,14 @@
   },
   "active": "c442d5422573a07b",
   "lastOpenFiles": [
+    "First boot.md",
+    "Anime and Dramas and Movies.md",
     "project ideas & useful links.md",
+    "Programming.md",
     "README.md",
     "System Design.md",
     "tips? CTO.md",
-    "Anime and Dramas.md",
-    "Programming.md",
     "Plan a project (All the sidequests).md",
-    "First boot.md",
     "Cybersecurity.md",
     "Exam preparation.md",
     "to do list.md"

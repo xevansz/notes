@@ -25,3 +25,7 @@ https://themecp.vercel.app/
 https://www.youtube.com/watch?v=fLS99zJDHOc&list=PLhixgUqwRTjxtDt2ABuejRxrIFSroqyEY - Hacking
 
 https://www.youtube.com/watch?v=Sx9zG7wa4FA - bash scripting complete guide
+
+Machine Learning
+https://www.youtube.com/watch?v=qNxrPri1V0I&t=69s
+machine learning is basically us telling a machine to be a scientist. Acquire data, find patterns, classify/analyze, and interpret. We teach these machine to perform well as a scientist, tell them to use a specific algorithm and mathematical equation for their job. and when they perform good we deploy them
