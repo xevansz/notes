@@ -26,14 +26,18 @@
 - Falling into You
 - joy of life
 - reset 2022
-- Speed and Love
+- Speed and Love - episode 8
 - Positively Yours (2026)
 - koi no suki (love and fortune)
+- blind
+- call it love
+- love game in the eastern fantasy
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
 - The Odyssey
 - Dracula
+- Along with the Gods: The Two Worlds
 
 ## TV show
 - leonardo
