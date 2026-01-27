@@ -32,6 +32,8 @@
 - blind
 - call it love
 - love game in the eastern fantasy
+- worst of evil
+- flower of evil
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults

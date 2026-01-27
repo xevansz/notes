@@ -3,7 +3,10 @@
  https://hamvocke.com/blog/
  https://carlosbecker.com/posts/
  https://mitchellh.com/writing
-https://ibpsonline.ibps.in/sbijajul25/  - sbi recruitement clerical post
+curl cheat.sh/latency - computer architecture
+https://nickbostrom.com/papers/pascal.pdf - pascals mugging
+Things by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky?from=post_header)
+https://www.lesswrong.com/posts/aiQabnugDhcrFtr9n/the-power-of-intelligence - The Squishy Things
 
 
 # project ideas
