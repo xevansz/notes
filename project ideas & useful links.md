@@ -7,7 +7,11 @@ curl cheat.sh/latency - computer architecture
 https://nickbostrom.com/papers/pascal.pdf - pascals mugging
 Things by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky?from=post_header)
 https://www.lesswrong.com/posts/aiQabnugDhcrFtr9n/the-power-of-intelligence - The Squishy Things
+https://pcpartpicker.com/ - pc part picker
+https://lucumr.pocoo.org/2026/1/18/agent-psychosis/ - a reality check on ai slop
 
+## Helix
+https://tomgroenwoldt.github.io/helix-shortcut-quiz/ - practice
 
 # project ideas
 https://www.youtube.com/watch?v=muJf6SwEaa0

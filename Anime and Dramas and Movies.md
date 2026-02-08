@@ -13,7 +13,6 @@
 - love in the clouds
 - Fangs of fortune
 - Double
-- Moonlight Mystic
 - Filter
 - Love's ambition (give it another chance)
 - Chief Detective 1958 
@@ -30,16 +29,17 @@
 - Positively Yours (2026)
 - koi no suki (love and fortune)
 - blind
-- call it love
 - love game in the eastern fantasy
 - worst of evil
 - flower of evil
+- our drama
+- The Player 2: Master of Swindlers
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
 - The Odyssey
-- Dracula
 - Along with the Gods: The Two Worlds
+- The First Ride
 
 ## TV show
 - leonardo
