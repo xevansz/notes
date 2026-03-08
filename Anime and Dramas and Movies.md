@@ -26,7 +26,6 @@
 - joy of life
 - reset 2022
 - Speed and Love - episode 8
-- Positively Yours (2026)
 - koi no suki (love and fortune)
 - blind
 - love game in the eastern fantasy
@@ -34,13 +33,24 @@
 - flower of evil
 - our drama
 - The Player 2: Master of Swindlers
+- Even If This Love Disappears from the World Tonight
+- The Art of Sarah
+- Undercover Miss Hong
+- Boyfriend on demand
+- Recipe for love (Boring)
+- Couple of Mirrors
+- Legend of Yunze
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
 - The Odyssey
 - Along with the Gods: The Two Worlds
 - The First Ride
+- Siren's kiss
 
 ## TV show
 - leonardo
 - Afterlife
+- The Idol - jennie
+- Impulse teleportation skill
+- Adolescence

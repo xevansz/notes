@@ -6,18 +6,6 @@ I wanna apply computational thinking to my entire world man, this emotional shit
 * algorithm design ( creating step-by-step solutions )
 
 ### Be a blank canvas man. Don't be afraid to fill it. Make it bloom. It's a blood bath
-* 
-1) systems over syntax
-2) business and code language - communicate like a translator
-3) build something people can see 
-4) Be Visible
-
-stop:
-1) stop doing every fix - hero fire(bug) extinguisher
-2) stop learning every new tech that comes, just know the trend - ex, learn machine learning not every framwork that gets released in ML
-3) stop waiting for permission to lead
-
-
 ## Introduction 
 1) Hook line - Dont use job titles - start with what you do and who you do it for 
 2) proof - add why your passionate about it, your unique spin

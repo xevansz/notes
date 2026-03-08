@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project ideas & useful links.md",
+                "file": "Anime and Dramas and Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project ideas & useful links"
+              "title": "Anime and Dramas and Movies"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "02a8fda187781ae1",
   "lastOpenFiles": [
+    "Data Engineering.md",
+    "project ideas & useful links.md",
     "Anime and Dramas and Movies.md",
     "busy beaver.md",
-    "project ideas & useful links.md",
     "tips.md",
     "haskell.md",
     "ecercies.md",
@@ -181,7 +182,6 @@
     "csN5XVUx.bck",
     "csyrtqEy.bck",
     "Plan a project (All the sidequests).md",
-    "Data Engineering.md",
     "csrVLJJw.bck",
     "csQ2NqBV.bck",
     "cs6nikNJ.bck",

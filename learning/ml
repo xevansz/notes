@@ -1,0 +1,16 @@
+https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B
+https://www.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf
+
+Same Paradigm:
+input/instructions -> model -> Output
+
+Supervised and Unsupervised and reinforcement Learning( agent = environment)
+
+Unsupervised Learning is building a Descriptive model
+* It uses historical data to explain what happened?
+
+Supervised learning is building a predictvie model
+* It uses statistical data to infer what will happen? 
+
+independent and dependent variables
+
