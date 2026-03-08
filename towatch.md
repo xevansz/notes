@@ -4,6 +4,7 @@
 - The Summer Hikaru Died
 - Tougen Anki: Dark Demon of Paradise
 - Apocalypse Bringer Mynoghra
+- Sentenced to be a hero
 ## Drama
 - Word of Honor
 - The Nice Guy
