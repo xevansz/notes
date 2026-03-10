@@ -12,7 +12,17 @@ I wanna apply computational thinking to my entire world man, this emotional shit
 		- I am a bit of a productivity freak who beileves that the right process can set creativity free
 3) The invitation - giving them back the conversation with a thoughtful and open ended question?
 
-The most important tool is respect  
+The most important tool is respect
 
+## Gaps
+1) Figure things out
+2) Professional Disagreement
+3) Communation Problem - short, actionable, opinionated
+4) Accent and Personality presentation problem
+5) Don't undersell yourself - Stop satisfying your friends
 
-	SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS
+Offer Presentation
+
+Build proof of work - Github, linkedIN
+
+# SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS

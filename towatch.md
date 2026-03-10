@@ -37,17 +37,27 @@
 - Even If This Love Disappears from the World Tonight
 - The Art of Sarah
 - Undercover Miss Hong
-- Boyfriend on demand
 - Recipe for love (Boring)
 - Couple of Mirrors
 - Legend of Yunze
+- Legend of Yunxi
+- Dear X (2025)
+- Cashero
+- Typhoon Family
+- My Dearest
+- Dear Hongrang
+- Confidence Queen
+- Siren's kiss
+- Castle in the Time
+- call it love (somewhere around 4 and 5?) 
+- When the weather is fine
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
 - The Odyssey
 - Along with the Gods: The Two Worlds
 - The First Ride
-- Siren's kiss
+- August
 
 ## TV show
 - leonardo
