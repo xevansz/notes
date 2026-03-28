@@ -23,11 +23,9 @@
 - Justice in the dark
 - undercover miss hong
 - Forever love
-- Falling into You
 - joy of life
 - reset 2022
 - Speed and Love - episode 8
-- koi no suki (love and fortune)
 - blind
 - love game in the eastern fantasy
 - worst of evil
@@ -41,7 +39,6 @@
 - Couple of Mirrors
 - Legend of Yunze
 - Legend of Yunxi
-- Dear X (2025)
 - Cashero
 - Typhoon Family
 - My Dearest
@@ -51,6 +48,12 @@
 - Castle in the Time
 - call it love (somewhere around 4 and 5?) 
 - When the weather is fine
+- newtopia
+- Love beyond the Grave
+- Wonderland of Love
+- The Starry Love
+- My journey to you
+- Spring Fever (2026)
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
@@ -65,3 +68,4 @@
 - The Idol - jennie
 - Impulse teleportation skill
 - Adolescence
+- war machine
