@@ -7,7 +7,7 @@
 - Sentenced to be a hero
 ## Drama
 - Word of Honor
-- The Nice Guy
+- The Nice Guy Lee dong wook 
 - My Girlfriend Is the Man!
 - sword snow stride
 - A Dream within a Dream
@@ -15,7 +15,6 @@
 - Fangs of fortune
 - Double
 - Filter
-- Love's ambition (give it another chance)
 - Chief Detective 1958 
 - glory
 - Dear X
@@ -42,6 +41,8 @@
 - Cashero
 - Typhoon Family
 - My Dearest
+- About Love - check it out
+- The Princess Royal
 - Dear Hongrang
 - Confidence Queen
 - Siren's kiss
@@ -50,10 +51,71 @@
 - When the weather is fine
 - newtopia
 - Love beyond the Grave
+- love in the clouds episode 2 or 3 - continue it
 - Wonderland of Love
 - The Starry Love
 - My journey to you
-- Spring Fever (2026)
+- long song in the winter
+- phantom lawyer
+- in your radiant season
+- aurther chen
+- The manipulated
+- Flex X corp
+- The Tale of Nokdu
+- From now on, Showtime!
+- My boss
+- The devil judge
+- still shining
+- scarlet heart ryo 
+- Vagabond
+- Life on Mars
+- Dear M
+- The witch 
+- The art of sarah 
+- Our blues
+- The glory
+- Welcome 2 life
+- Our unwritten seoul
+- Melo movie
+- Daily dose of sunshine
+- Light shop 
+- Our Generation
+- The boy next door
+- resident playlist
+- Atypical family
+- My roomate is a gumiho 
+- When life give you oranges
+- Death's game part 2
+- Romantics anonymous
+- blood free
+- moving
+- Story of the kunning palace
+- Sword and Fairy
+- wonderland of love
+- Moonlit reunion
+- Pursuit of jade
+- Mobius
+- Deep Affection Eyes
+- Guess Who I Am
+- My mister
+- glory cdrama
+- fangs of fortune
+- The trunk 
+- Love me
+- why her
+- Doubt
+- chief detective 1958
+- Black Out
+- Veil of Shadows
+- Wonderful World
+- Good partner
+- 365: repeat year
+- The witches diner
+- Only for love
+- 19th Floor
+- My page in the 90's
+- Rising with the Wind
+- Blossom 
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
@@ -61,6 +123,9 @@
 - Along with the Gods: The Two Worlds
 - The First Ride
 - August
+- Suga 
+- IU
+- J-Hope documentaries
 
 ## TV show
 - leonardo
@@ -69,3 +134,6 @@
 - Impulse teleportation skill
 - Adolescence
 - war machine
+
+## Novel
+Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine and another one with a spoilery name

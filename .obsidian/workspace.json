@@ -11,10 +11,14 @@
             "id": "535b8a3a0422ae23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "towatch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "towatch"
             }
           }
         ]
@@ -167,14 +171,17 @@
   },
   "active": "535b8a3a0422ae23",
   "lastOpenFiles": [
-    "README.md",
-    "first_boot.md",
-    "learning/project ideas & useful links.md",
-    "learning/LInks.md",
-    "learning/Programming.md",
-    "learning/haskell.md",
     "learning/System Design.md",
     "towatch.md",
+    "learning/project ideas & useful links.md",
+    "learning/LInks.md",
+    "learning/tips.md",
+    "learning/Programming.md",
+    "learning/Cybersecurity.md",
+    "learning/Data Engineering.md",
+    "learning/haskell.md",
+    "README.md",
+    "first_boot.md",
     "cpumemory.pdf",
     "Data Engineering.md",
     "project ideas & useful links.md",
