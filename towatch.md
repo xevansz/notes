@@ -7,12 +7,14 @@
 - Sentenced to be a hero
 ## Drama
 - Word of Honor
+- Twelve Letters (2025)
 - The Nice Guy Lee dong wook 
 - My Girlfriend Is the Man!
 - sword snow stride
 - A Dream within a Dream
 - love in the clouds
 - Fangs of fortune
+- Flourished Peony (2025)
 - Double
 - Filter
 - Chief Detective 1958 
@@ -63,7 +65,6 @@
 - Flex X corp
 - The Tale of Nokdu
 - From now on, Showtime!
-- My boss
 - The devil judge
 - still shining
 - scarlet heart ryo 
@@ -97,7 +98,7 @@
 - Mobius
 - Deep Affection Eyes
 - Guess Who I Am
-- My mister
+- You are my glory - Yang yang, dilburta
 - glory cdrama
 - fangs of fortune
 - The trunk 
@@ -109,13 +110,25 @@
 - Veil of Shadows
 - Wonderful World
 - Good partner
+- Love in Pavilion (2025)
 - 365: repeat year
 - The witches diner
 - Only for love
 - 19th Floor
-- My page in the 90's
+- Destined to Meet You (2022)
+- My boss
+- crown prince - IU
+- How dare you
+- Fated hearts 2025 cdrama
+- pursuit of jade
+- love beyond the grave
 - Rising with the Wind
-- Blossom 
+- Blossom
+
+### Currently watching
+- love story in the 70's ep 2
+- Moonlit reunion ep24
+- Rising with the wind 
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
@@ -137,3 +150,5 @@
 
 ## Novel
 Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine and another one with a spoilery name
+https://novelfull.com/the-formidable-son-in-law-the-charismatic-lucas-gray.html?page=15
+https://m.novel-cat.com/bookDetail/17508317606/about/liked/Peerless-Son-in-law
