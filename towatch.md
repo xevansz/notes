@@ -13,6 +13,7 @@
 - sword snow stride
 - A Dream within a Dream
 - love in the clouds
+- Blood River (2025)
 - Fangs of fortune
 - Flourished Peony (2025)
 - Double
@@ -41,6 +42,7 @@
 - Legend of Yunze
 - Legend of Yunxi
 - Cashero
+- Beyond the Bar (2025)
 - Typhoon Family
 - My Dearest
 - About Love - check it out
@@ -75,9 +77,10 @@
 - The art of sarah 
 - Our blues
 - The glory
-- Welcome 2 life
+- Island 2022
 - Our unwritten seoul
 - Melo movie
+- The Air (2026)
 - Daily dose of sunshine
 - Light shop 
 - Our Generation
@@ -104,6 +107,10 @@
 - The trunk 
 - Love me
 - why her
+- Perfect Match (2025)
+- The Vendetta of An (2025)
+- Whispers of Fate (2025)
+- Perfect Match (2025)
 - Doubt
 - chief detective 1958
 - Black Out
@@ -113,6 +120,7 @@
 - Love in Pavilion (2025)
 - 365: repeat year
 - The witches diner
+- Fireworks of my heart
 - Only for love
 - 19th Floor
 - Destined to Meet You (2022)
@@ -122,13 +130,13 @@
 - Fated hearts 2025 cdrama
 - pursuit of jade
 - love beyond the grave
-- Rising with the Wind
-- Blossom
-
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
-- Rising with the wind 
+- Rising with the wind ep 28
+- My safe zone - phone
+- Blossom ep3
+- Go back lover - phone
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
@@ -136,18 +144,13 @@
 - Along with the Gods: The Two Worlds
 - The First Ride
 - August
-- Suga 
-- IU
-- J-Hope documentaries
-
 ## TV show
 - leonardo
 - Afterlife
-- The Idol - jennie
 - Impulse teleportation skill
 - Adolescence
 - war machine
-
+- Spartacus: House of Ashur
 ## Novel
 Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine and another one with a spoilery name
 https://novelfull.com/the-formidable-son-in-law-the-charismatic-lucas-gray.html?page=15
