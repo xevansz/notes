@@ -172,20 +172,20 @@
   "active": "d04330ae2a895a5e",
   "lastOpenFiles": [
     "README.md",
-    "learning/ML.md",
+    "learning/Resources for Learning.md",
+    "towatch.md",
     "learning/Cybersecurity.md",
     "learning/Data Engineering.md",
-    "learning/haskell.md",
     "learning/Programming.md",
-    "learning/project ideas & useful links.md",
+    "learning/ML.md",
+    "learning/haskell.md",
     "learning/System Design.md",
     "learning/tips.md",
-    "towatch.md",
+    "cpumemory.pdf",
+    "first_boot.md",
     "PUBGM.md",
     "learn/images/sq_loss.png",
     "learning/LInks.md",
-    "first_boot.md",
-    "cpumemory.pdf",
     "Data Engineering.md",
     "project ideas & useful links.md",
     "Anime and Dramas and Movies.md",
@@ -206,7 +206,6 @@
     "Programming.md",
     "System Design.md",
     "tips? CTO.md",
-    "Cybersecurity.md",
-    "Exam preparation.md"
+    "Cybersecurity.md"
   ]
 }

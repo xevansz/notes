@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=Sx9zG7wa4FA - bash scripting complete guide
 ## Machine Learning
 https://www.youtube.com/watch?v=qNxrPri1V0I&t=69s
 machine learning is basically us telling a machine to be a scientist. Acquire data, find patterns, classify/analyze, and interpret. We teach these machine to perform well as a scientist, tell them to use a specific algorithm and mathematical equation for their job. and when they perform good we deploy them
+- https://www.youtube.com/watch?v=Fa_V9fP2tpU&t=37s - All Concepts
+- https://www.youtube.com/watch?v=0YdpwSYMY6I - All Models
+- https://www.youtube.com/watch?v=JxgmHe2NyeY&t=476s - Krish Naik
+- https://www.youtube.com/@charlottemoser6235/videos - for maths and basics
 ### Busy Beaver
 part 1 - https://www.youtube.com/watch?v=XC2SK8PWy4g
 part 2 - https://www.youtube.com/watch?v=lFoVpWkUNnw
@@ -46,3 +50,23 @@ part 3 - https://www.youtube.com/watch?v=axAi9WtIFSQ
 
 ### Game Developer:
 - https://www.youtube.com/watch?v=9hIU624eIO4
+
+### Developer Blogs
+- netflix - https://netflixtechblog.com/
+- uber - https://www.uber.com/us/en/blog/engineering/
+- Discord - https://discord.com/category/engineering
+- Shopify - https://shopify.engineering/
+- Github - https://github.blog/engineering/
+
+### Philosophy 
+https://www.youtube.com/watch?v=-QtIVv-oz5Y&t=90s - Nietzsche
+
+### Haskell
+write yourself a scheme in 48 hours by jonathan tang
+write you a scheme, version 2.0
+
+### Data Engineering 
+https://www.ssp.sh/brain/data-engineering/ - Blog
+https://www.dedp.online/ - Book
+https://www.ssp.sh/ - 
+https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ - a good read

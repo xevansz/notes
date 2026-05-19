@@ -5,6 +5,8 @@
 - Tougen Anki: Dark Demon of Paradise
 - Apocalypse Bringer Mynoghra
 - Sentenced to be a hero
+- Link Clink
+- To be heroic
 ## Drama
 - Word of Honor
 - Twelve Letters (2025)
@@ -112,7 +114,6 @@
 - Whispers of Fate (2025)
 - Perfect Match (2025)
 - Doubt
-- chief detective 1958
 - Black Out
 - Veil of Shadows
 - Wonderful World
@@ -130,12 +131,13 @@
 - Fated hearts 2025 cdrama
 - pursuit of jade
 - love beyond the grave
+- We Are All Trying Here
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
 - Rising with the wind ep 28
 - My safe zone - phone
-- Blossom ep3
+- Blossom ep21
 - Go back lover - phone
 ## Movie
 - Dacoit
@@ -144,6 +146,13 @@
 - Along with the Gods: The Two Worlds
 - The First Ride
 - August
+- The Man from Nowhere
+- I saw the Devil
+- Hope
+- The wailing
+- The yellow sea
+- The chaser
+- LifeHack
 ## TV show
 - leonardo
 - Afterlife
