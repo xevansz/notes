@@ -1,0 +1,155 @@
+-- Better, one 1% every day --
+Battles are fought outside and wars are won inside
+ -- One skill, every month --
+Dark Knight Film: Die being a hero, but live long enough to see yourself become the villain. Be the man you want to be.
+
+Are you _______ fine?
+1) Physically
+2) Mentally
+3) Spiritually
+
+Recommended 3-Month Focus (realistic with family pressure):
+
+Prototype (50% time): Build core + validate with real users. Use Go for backend if it fits.
+Finance learning (20%): Daily reading + portfolio review.
+GoLang + ML maintenance (20%): Integrated into prototype.
+Safety net (10%): Update resume/LinkedIn, do light freelance for cash flow.
+
+1) Expo project
+3) Go project - resume review
+4) complete youtube tutorials in helium
+7) install gcam on oneplus
+9) customs phone and tab
+10) research about the LG fridge
+11) CC cams research
+12) Salesforce
+13) complete the apps
+14) make a reel and post on trip vampire weekend
+
+Projects
+* Freelancing - online design mockups
+* check out all the forked repos.
+* gain more achievements in github.
+* time to start your portfolio project again.
+* Prepare for full knowledge scale - Build Something real man. Don't use stupid AI
+	- ML (priority) - 3-4hrs
+		* Weather Forecast
+		* spotyt
+		* nuscrapper
+		* Image generation - Math, Diffusion, Code
+		* Prognosis AI
+			* Complete the documentation
+		* Reinforcement Learning - Make a project and a paper on it
+		* Project: idea
+			Project: Telecom Twitter Sentiment Analysis
+			Objective: Analyze customer feedback for a European telecom operator using NLP.
+			Process:
+			Collect Twitter data related to service feedback.
+			Categorize tweets into service buckets (e.g., 4G, SMS).
+			Use clustering and sentiment analysis to classify feedback as good, bad, or neutral.
+			Telecom uses insights to improve weak areas and promote strengths, enhancing customer retention.
+		* Raji Project
+	- Basic System Design - skip for now
+	- Backend fundamentals, API's and databases - 30 mins
+* https://zenodo.org/records/20286199 - add to cv
+
+Resume - Look Good
+1) Deep learning Framworks - include a project in pytorch/TF&keras and Hugging Face for LLMs/GenAI
+2) Learn kubernetes and CI/CD for ML(Mlflow, Airflow, kuberflow), model monitoring, data drift, A/B testing, inference optimization (ONNX, TorchServe). AWS (EC2/S3) basics include SageMaker, Lamdba or full pipelines
+3) Math - JDs stress probability, statistics, linear algebra, optimization. Your MS helps, but explicitly call out coursework/projects (e.g., in RL: MDP, Q-learning details; evaluation metrics beyond F1).
+Advanced topics: Transformers, LLMs/RAG depth (you have RAG — expand with evaluation, vector DB specifics like FAISS/Pinecone, retrieval metrics).
+4) increase metrics on scale(data size, users, cost savings), business impact challengs overcome. NuScrapper is low improve it. use star like bullets and add github links and live demos
+5) sql + spark or larger datasets, GoLang is nice-to-have for backend/performance, communication(explaining models), vcs depth. 
+
+ML Topics to cover:
+0: Fundamentals
+- Numpy
+- Matplotlib
+- Pandas
+- Mean, variance, distributions and correlation
+- SQL
+- Maths
+	- Linear Algebra
+	- Probability
+	- Statistics
+	- Calculas
+
+1: ML Fundamentals
+- Linear Regression
+- Logistic Regression
+- Loss functions
+- Gradient Descent
+- Overfitting / Underfitting
+- Train/test split
+
+2: Core ML Models
+- Decision Trees
+- Random Forest
+- KNN
+- Naive Bayes
+- Basic Feature Engineering
+
+3: ML
+- cross-validation
+- Evaluation metrics
+- Data Leakage
+- Handling missing data
+- Pipelines
+
+4: Backend + Deploy
+- APIs (FastAPI)
+- Model serving
+- Docker Basics
+- Logging
+
+5: MLOps Fundamentals
+- Experiment tracking
+- Model versioning
+- CI/CD basics
+- Data pipelines
+** Tools: MLflow, Docker **
+
+6: Deep Learning
+- Neural Networks
+- Backpropagation
+- CNN basics
+
+7: GenAI
+- Transformers
+- Embeddings
+- Prompt Engineering
+- RAG(Retrieval-Augmented Generation)
+
+8: Advanced MLOps + scale
+- Distributed training
+- Kubernetes
+- Monitering models in production
+
+
+Main Quest:
+* Burn for rust to develop ML - TTS library for linux
+* Martial Artists
+* Exercises
+* Public Speaking
+* Deep work
+* Sales - Learn how to pitch your ideas
+* Negotiate
+* Money Management
+* Reading
+* Writing - Journaling
+* Time Control
+* Emotional Control 
+* Lear Fast
+* Networking
+* Displine and Diet
+* Problem Solving
+* Silence
+* Self Control
+
+
+Side Quests:
+* chess, japanese.
+* render cubes and make them move using your arrow keys - graphics programming.
+	* https://learnopengl.com
+	* bash scripting
+
