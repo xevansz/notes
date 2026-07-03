@@ -1,30 +1,15 @@
--- Better, one 1% every day --
-Battles are fought outside and wars are won inside
- -- One skill, every month --
-Dark Knight Film: Die being a hero, but live long enough to see yourself become the villain. Be the man you want to be.
+* Prototype (50% time): Build core + validate with real users. Use Go for backend if it fits.
+* Finance learning (20%): Daily reading + portfolio review.
+* GoLang + ML maintenance (20%): Integrated into prototype.
+* Safety net (10%): Update resume/LinkedIn, do light freelance for cash flow.
+* christophers question
+* make videos
 
-Are you _______ fine?
-1) Physically
-2) Mentally
-3) Spiritually
-
-Recommended 3-Month Focus (realistic with family pressure):
-
-Prototype (50% time): Build core + validate with real users. Use Go for backend if it fits.
-Finance learning (20%): Daily reading + portfolio review.
-GoLang + ML maintenance (20%): Integrated into prototype.
-Safety net (10%): Update resume/LinkedIn, do light freelance for cash flow.
-
-1) Expo project
-3) Go project - resume review
-4) complete youtube tutorials in helium
-7) install gcam on oneplus
-9) customs phone and tab
-10) research about the LG fridge
-11) CC cams research
-12) Salesforce
-13) complete the apps
-14) make a reel and post on trip vampire weekend
+finance:
+* Zerodha Varsity
+* let's talk Money - Monika Halan
+* The intelligent investor by Benjamin Graham
+* MF/ETF focus: Read about asset allocation, index vs active funds
 
 Projects
 * Freelancing - online design mockups
@@ -52,6 +37,13 @@ Projects
 	- Basic System Design - skip for now
 	- Backend fundamentals, API's and databases - 30 mins
 * https://zenodo.org/records/20286199 - add to cv
+1) Expo project
+4) complete youtube tutorials in helium
+10) research about the LG fridge
+11) CC cams research
+12) Salesforce - https://trailhead.salesforce.com/
+13) complete the apps
+14) make a reel and post on trip vampire weekend
 
 Resume - Look Good
 1) Deep learning Framworks - include a project in pytorch/TF&keras and Hugging Face for LLMs/GenAI
@@ -125,7 +117,6 @@ ML Topics to cover:
 - Kubernetes
 - Monitering models in production
 
-
 Main Quest:
 * Burn for rust to develop ML - TTS library for linux
 * Martial Artists
@@ -146,10 +137,7 @@ Main Quest:
 * Silence
 * Self Control
 
-
 Side Quests:
 * chess, japanese.
 * render cubes and make them move using your arrow keys - graphics programming.
 	* https://learnopengl.com
-	* bash scripting
-

@@ -26,13 +26,14 @@
 - Twelve letters
 - Justice in the dark
 - undercover miss hong
-- Forever love
+- Forever love 2020
 - joy of life
 - reset 2022
 - Speed and Love - episode 8
 - blind
 - love game in the eastern fantasy
 - worst of evil
+- A River Runs through It (2021)
 - flower of evil
 - our drama
 - The Player 2: Master of Swindlers
@@ -67,13 +68,16 @@
 - aurther chen
 - The manipulated
 - Flex X corp
+- Why Her? (2022)
 - The Tale of Nokdu
 - From now on, Showtime!
+- Count Your Lucky Stars (2020)
 - The devil judge
 - still shining
 - scarlet heart ryo 
 - Vagabond
 - Life on Mars
+- Bring It On, Ghost (2016)
 - Dear M
 - The witch 
 - The art of sarah 
@@ -81,6 +85,7 @@
 - The glory
 - Island 2022
 - Our unwritten seoul
+- My Lovely Liar (2023)
 - Melo movie
 - The Air (2026)
 - Daily dose of sunshine
@@ -103,12 +108,10 @@
 - Mobius
 - Deep Affection Eyes
 - Guess Who I Am
-- You are my glory - Yang yang, dilburta
-- glory cdrama
+- My Royal Nemesis (2026)
 - fangs of fortune
 - The trunk 
 - Love me
-- why her
 - Perfect Match (2025)
 - The Vendetta of An (2025)
 - Whispers of Fate (2025)
@@ -118,7 +121,6 @@
 - Veil of Shadows
 - Wonderful World
 - Good partner
-- Love in Pavilion (2025)
 - 365: repeat year
 - The witches diner
 - Fireworks of my heart
@@ -127,18 +129,54 @@
 - Destined to Meet You (2022)
 - My boss
 - crown prince - IU
+- How to Be a Perfect Dad (2022)
+- Kleun Cheewit (2017)
+- Reverse 4 You (2024)
+- 23.5 (2024)
+- Petrichor (2024)
+- The Loyal Pin (2024)
+- Summit of Our Youth (2025)
+- My Royal Nemesis (2026)
 - How dare you
-- Fated hearts 2025 cdrama
 - pursuit of jade
+- The Sign 2023
+- Pls.Love
+- My Marvellous Dream Is You 2024
 - love beyond the grave
+- love designer
+- Generation to Generation (2026)
+- Hide & Sis (2025)
 - We Are All Trying Here
+- A love confession
+- Chasing Dreams (2026)
+- In Love Forever (2026)
+- Girl from Nowhere
+- Ashes to Crown (2026)
+- My Marvellous Dream Is You
+- On and Off
+- fullfill
+- Affair (2024),
+-  Hometown Romance
+- Shades
+- Affinity
+- Embrace in the dark night
+- fullfill
+- on & off
+- The legend of shen Li
+- Never Twice (2019)
+- Marry me again 2025
+- Legend of Zang Hai (2025)
+- See You at Work Tomorrow! (2026)
+- Blossoms of Power (2026)
+- Enldess Summer
+-  By your side
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
-- Rising with the wind ep 28
-- My safe zone - phone
-- Blossom ep21
-- Go back lover - phone
+- Fox Spirit Matchmaker 2: Love in Pavilion
+- Pluto (2024)
+- glory cdrama
+- chasing love ep3
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults
@@ -150,9 +188,22 @@
 - I saw the Devil
 - Hope
 - The wailing
+- Oldboy korean 
 - The yellow sea
 - The chaser
 - LifeHack
+- The Secret: Dare to Dream
+- Wedding Daze
+- Erin Brockovich
+- Birth 2004
+- The Pirates (2014)
+- Terry maguire
+- Obsession 2026
+- Once upon a time.. in a hollywood
+- Husbands in Action (2026)
+- Tuner
+- District13 Ultimatum
+- Sun Moon
 ## TV show
 - leonardo
 - Afterlife
@@ -160,6 +211,7 @@
 - Adolescence
 - war machine
 - Spartacus: House of Ashur
+- Dirk Gently's Holistic Detective Agency
 ## Novel
 Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine and another one with a spoilery name
 https://novelfull.com/the-formidable-son-in-law-the-charismatic-lucas-gray.html?page=15

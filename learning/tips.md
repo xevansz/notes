@@ -26,3 +26,6 @@ Offer Presentation
 Build proof of work - Github, linkedIN
 
 # SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS SKILLS
+
+
+If you want to read more books go to Jordon B Petersons rec list of books 

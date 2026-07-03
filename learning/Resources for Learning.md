@@ -1,14 +1,17 @@
+Once you have money and basic skill use code crafters to skill up
  https://cses.fi/problemset/task/1068 - for problems
  https://blog.parasrah.com/posts
  https://hamvocke.com/blog/
  https://carlosbecker.com/posts/
- https://mitchellh.com/writing
+ https://mitchellh.com/writing - Mitchel hashimoto
 curl cheat.sh/latency - computer architecture
 https://nickbostrom.com/papers/pascal.pdf - pascals mugging
 Things by [Eliezer Yudkowsky](https://www.lesswrong.com/users/eliezer_yudkowsky?from=post_header)
 https://www.lesswrong.com/posts/aiQabnugDhcrFtr9n/the-power-of-intelligence - The Squishy Things
 https://pcpartpicker.com/ - pc part picker
 https://lucumr.pocoo.org/2026/1/18/agent-psychosis/ - a reality check on ai slop
+https://www.youtube.com/watch?v=8nev8kVUegk - schema for centralized exchange
+Operating Systems - Core Dumped YT
 
 ### project ideas
 https://www.youtube.com/watch?v=muJf6SwEaa0
@@ -47,6 +50,7 @@ part 3 - https://www.youtube.com/watch?v=axAi9WtIFSQ
 * A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills Book by Jay Wengrow
 - https://flylib.com/books/en/1.274.1/symmetric_key_cryptography.html
 - https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/
+- The Programmer's Brain by Dr Felienne Hermans
 
 ### Game Developer:
 - https://www.youtube.com/watch?v=9hIU624eIO4
@@ -70,3 +74,6 @@ https://www.ssp.sh/brain/data-engineering/ - Blog
 https://www.dedp.online/ - Book
 https://www.ssp.sh/ - 
 https://www.ssp.sh/blog/pkm-workflow-for-a-deeper-life/ - a good read
+
+### Reverse Engineering and Assembly
+https://apps.p.ost2.fyi/learning/course/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/block-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1+type@sequential+block@635ad528c87247fdaa053945c3c067f5/block-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1+type@vertical+block@f5158510388146b0ba9735a6f1dabd7b - Good luck 

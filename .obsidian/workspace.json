@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cce3e687882eb72",
+        "id": "b4911706c79175fa",
         "type": "tabs",
         "children": [
           {
-            "id": "d04330ae2a895a5e",
+            "id": "f08393f21a38a249",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,21 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d04330ae2a895a5e",
+  "active": "f08393f21a38a249",
   "lastOpenFiles": [
-    "README.md",
-    "learning/Resources for Learning.md",
+    "Bible notes/Bibleieeileielei.md",
+    "Bible notes/Why does god let us go through hardships.md",
+    "Bible notes/Index.md",
+    "Bible notes",
+    "Books.md",
     "towatch.md",
+    "learning/Resources for Learning.md",
+    "PUBGM.md",
+    "README.md",
+    "learning/tips.md",
+    "first_boot.md",
     "learning/Cybersecurity.md",
     "learning/Data Engineering.md",
     "learning/Programming.md",
     "learning/ML.md",
     "learning/haskell.md",
     "learning/System Design.md",
-    "learning/tips.md",
     "cpumemory.pdf",
-    "first_boot.md",
-    "PUBGM.md",
     "learn/images/sq_loss.png",
     "learning/LInks.md",
     "Data Engineering.md",
@@ -202,10 +207,6 @@
     "cs6nikNJ.bck",
     "cszG76Q3.bck",
     "csUKXuZL.bck",
-    "csWoBk9T.bck",
-    "Programming.md",
-    "System Design.md",
-    "tips? CTO.md",
-    "Cybersecurity.md"
+    "Programming.md"
   ]
 }

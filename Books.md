@@ -1,5 +1,6 @@
 *ADD IT TO GOOD READS SOON*
 -- 
+https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng
 https://www.planetebook.com/
 - 1984 George Orwell
 - Animal Farm GO
@@ -14,6 +15,7 @@ https://www.planetebook.com/
 - Island - AH
 - Aleksandr solzhenitsyn Cancer Ward
 - Crime and punishment Fyodor dostovevsky
+- White Nights - FD
 - Demons - FD
 - Notes from underground - FD
 - East of Eden John Steinbeck 
@@ -32,3 +34,11 @@ https://www.planetebook.com/
 - The worlds religions Huston smith 
 - The crisis of Islam - bernard lewis 
 - Books of Mircea Eliade
+
+
+
+### Religious
+- The Talmud
+- Bhagavad Gita
+- Apocrypha
+- Book of Mormon
