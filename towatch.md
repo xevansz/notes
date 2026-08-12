@@ -1,4 +1,4 @@
-## Anime
+:## Anime
 - clevates
 - Takopi's Original Sin
 - The Summer Hikaru Died
@@ -16,7 +16,7 @@
 - A Dream within a Dream
 - love in the clouds
 - Blood River (2025)
-- Fangs of fortune
+- Fangs of fortune (2024)
 - Flourished Peony (2025)
 - Double
 - Filter
@@ -153,23 +153,22 @@
 - Girl from Nowhere
 - Ashes to Crown (2026)
 - My Marvellous Dream Is You
-- On and Off
-- fullfill
 - Affair (2024),
 -  Hometown Romance
 - Shades
 - Affinity
 - Embrace in the dark night
-- fullfill
+- fulfill
 - on & off
 - The legend of shen Li
+- The First Responders (2022)
 - Never Twice (2019)
-- Marry me again 2025
 - Legend of Zang Hai (2025)
 - See You at Work Tomorrow! (2026)
 - Blossoms of Power (2026)
 - Enldess Summer
--  By your side
+- By your side
+- Monster and griffith anime breserk
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
@@ -177,6 +176,7 @@
 - Pluto (2024)
 - glory cdrama
 - chasing love ep3
+- fulfill ep2 
 ## Movie
 - Dacoit
 - Toxic: A faity tale for adults

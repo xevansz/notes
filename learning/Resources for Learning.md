@@ -54,7 +54,46 @@ part 3 - https://www.youtube.com/watch?v=axAi9WtIFSQ
 
 ### Game Developer:
 - https://www.youtube.com/watch?v=9hIU624eIO4
+ • [How long does it take to reach every rank](https://www.youtube.com/watch?v=SlRn51k510k)
+ • [Obsidian: The King of Learning Tools (FULL)](https://www.youtube.com/watch?v=hSTy_BInQs8)
+ • [Crash Course Computer Science Preview  ](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=1) 
 
+   /@javidx9  https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
+Fantastic beginner and intermediate level projects to learn along side your C++ studies.
+
+Computer fundimentals
+Operating System : Three Easy Pieces - https://pages.cs.wisc.edu/~remzi/OSTEP/ Books: Part 1 and 2 are great for this pretty easy to follow, requires Linux of WLS for Windows users.
+
+Graphics theory
+https://learnopengl.com/ - Maybe learn OpenGL before vulkan just to learn graphics theory. You're gonna be here for thousands of hours anyway.
+Foundations of Game Engine Development Volume 1 - A great maths book
+Foundations of Game Engine Development Volume 2 or Real time rendering - Both are pretty complete resources on the foundational graphic techniques
+https://google.github.io/filament/mai... - At least do everything for the standard BRDF physical based rendering.
+https://www.pbrt.org/ - If you want to build an offline renderer that's purely a ray tracer.
+GPU ZEN 03 and 04 - Advanced Rendering Techniques
+   / [@simondev758](https://www.youtube.com/channel/UCEwhtpXrg5MmwlH04ANpL8A)
+Great videos Simon goes over a lot of great techniques.
+   / [@acerola_t ](https://www.youtube.com/channel/UCQG40havu4kNpB4pxUDQhYQ)
+Great videos on more graphics techinques, advice and such.
+   / [@oskar_schramm](https://www.youtube.com/channel/UCouZTpVDt6Vv5HY8PWd071A)
+More great graphics techinques videos about things.
+
+Vulkan resource - Make sure all your vulkan resources are working with Vulkan 1.3
+AVOID DO NOT USE THIS https://vulkan-tutorial.com/ 
+https://www.howtovulkan.com/ - This is good introduction
+https://vkguide.dev/ - Another introduction just more in depth
+Vulkan 3D Graphics Rendering Cookbook - A very gental introduction with something cool recieps 
+Mastering graphics with Vulkan - Pre vulkan 1.3 but has great techniques
+   / @zeuxcg   for more advanced mesh shading stuff, use this over other things listed for mesh shading.
+
+Game engine resources
+Game Engine Architecture https://www.gameenginebook.com/ - Take this seriously you'll thank yourself in the future, this IS the road map for making game engines.
+   / @mollyrocket  
+Casey has a 662 playlist on making a game engine from scratch and other great programming content
+   / @travisvroman  
+Travis has a great series were he does educational livestream on making a game engine from scratch in vulkan and C
+
+There are of course people I've missed or resources but these are the resources I've personally used. Add your own to the comments below.
 ### Developer Blogs
 - netflix - https://netflixtechblog.com/
 - uber - https://www.uber.com/us/en/blog/engineering/

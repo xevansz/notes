@@ -1,51 +1,31 @@
-* Prototype (50% time): Build core + validate with real users. Use Go for backend if it fits.
-* Finance learning (20%): Daily reading + portfolio review.
-* GoLang + ML maintenance (20%): Integrated into prototype.
-* Safety net (10%): Update resume/LinkedIn, do light freelance for cash flow.
-* christophers question
-* make videos
+# Scribbles of the Tax Collector
 
-finance:
+## Marry Gladys - All Glory to GOD
+
+## finance:
 * Zerodha Varsity
 * let's talk Money - Monika Halan
 * The intelligent investor by Benjamin Graham
 * MF/ETF focus: Read about asset allocation, index vs active funds
 
-Projects
-* Freelancing - online design mockups
-* check out all the forked repos.
-* gain more achievements in github.
-* time to start your portfolio project again.
-* Prepare for full knowledge scale - Build Something real man. Don't use stupid AI
-	- ML (priority) - 3-4hrs
-		* Weather Forecast
-		* spotyt
-		* nuscrapper
-		* Image generation - Math, Diffusion, Code
-		* Prognosis AI
-			* Complete the documentation
-		* Reinforcement Learning - Make a project and a paper on it
-		* Project: idea
-			Project: Telecom Twitter Sentiment Analysis
-			Objective: Analyze customer feedback for a European telecom operator using NLP.
-			Process:
-			Collect Twitter data related to service feedback.
-			Categorize tweets into service buckets (e.g., 4G, SMS).
-			Use clustering and sentiment analysis to classify feedback as good, bad, or neutral.
-			Telecom uses insights to improve weak areas and promote strengths, enhancing customer retention.
-		* Raji Project
-	- Basic System Design - skip for now
-	- Backend fundamentals, API's and databases - 30 mins
-* https://zenodo.org/records/20286199 - add to cv
-1) Expo project
-4) complete youtube tutorials in helium
-10) research about the LG fridge
-11) CC cams research
-12) Salesforce - https://trailhead.salesforce.com/
-13) complete the apps
-14) make a reel and post on trip vampire weekend
+**TO-DO**:
+* kinderjoy excel sheet Mad tho talk stranger things and others
+* complete the app today
+* ML - study and apply - Memoria project after app is done.
+* Princess laptop repair
+* Varshitha towers post
 
-Resume - Look Good
+## Side Quests:
+* https://zenodo.org/records/20286199 - add to cv
+* research about the LG fridge
+* CC cams research
+* Salesforce - https://trailhead.salesforce.com/
+* make a reel and post on trip vampire weekend
+* chess, japanese.
+* render cubes and make them move using your arrow keys - graphics programming.
+* https://learnopengl.com
+
+## Resume - Look Good
 1) Deep learning Framworks - include a project in pytorch/TF&keras and Hugging Face for LLMs/GenAI
 2) Learn kubernetes and CI/CD for ML(Mlflow, Airflow, kuberflow), model monitoring, data drift, A/B testing, inference optimization (ONNX, TorchServe). AWS (EC2/S3) basics include SageMaker, Lamdba or full pipelines
 3) Math - JDs stress probability, statistics, linear algebra, optimization. Your MS helps, but explicitly call out coursework/projects (e.g., in RL: MDP, Q-learning details; evaluation metrics beyond F1).
@@ -53,7 +33,7 @@ Advanced topics: Transformers, LLMs/RAG depth (you have RAG — expand with eval
 4) increase metrics on scale(data size, users, cost savings), business impact challengs overcome. NuScrapper is low improve it. use star like bullets and add github links and live demos
 5) sql + spark or larger datasets, GoLang is nice-to-have for backend/performance, communication(explaining models), vcs depth. 
 
-ML Topics to cover:
+## ML Topics to cover:
 0: Fundamentals
 - Numpy
 - Matplotlib
@@ -117,7 +97,7 @@ ML Topics to cover:
 - Kubernetes
 - Monitering models in production
 
-Main Quest:
+## Main Quest:
 * Burn for rust to develop ML - TTS library for linux
 * Martial Artists
 * Exercises
@@ -137,7 +117,3 @@ Main Quest:
 * Silence
 * Self Control
 
-Side Quests:
-* chess, japanese.
-* render cubes and make them move using your arrow keys - graphics programming.
-	* https://learnopengl.com
