@@ -1,4 +1,4 @@
-:## Anime
+## Anime
 - clevates
 - Takopi's Original Sin
 - The Summer Hikaru Died
@@ -7,6 +7,7 @@
 - Sentenced to be a hero
 - Link Clink
 - To be heroic
+- Monster and griffith anime breserk
 ## Drama
 - Word of Honor
 - Twelve Letters (2025)
@@ -55,7 +56,6 @@
 - Siren's kiss
 - Castle in the Time
 - call it love (somewhere around 4 and 5?) 
-- When the weather is fine
 - newtopia
 - Love beyond the Grave
 - love in the clouds episode 2 or 3 - continue it
@@ -157,18 +157,14 @@
 -  Hometown Romance
 - Shades
 - Affinity
-- Embrace in the dark night
-- fulfill
-- on & off
 - The legend of shen Li
 - The First Responders (2022)
 - Never Twice (2019)
 - Legend of Zang Hai (2025)
-- See You at Work Tomorrow! (2026)
-- Blossoms of Power (2026)
 - Enldess Summer
 - By your side
-- Monster and griffith anime breserk
+- The Ordinary Jackpot
+- When the weather is fine
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
@@ -204,6 +200,7 @@
 - Tuner
 - District13 Ultimatum
 - Sun Moon
+- Kingdom of Heaven
 ## TV show
 - leonardo
 - Afterlife

@@ -1,6 +1,15 @@
-# Scribbles of the Tax Collector
+#si Scribbles of the Tax Collector
 
-## Marry Gladys - All Glory to GOD
+## As long as Gladys is happy - All Glory to GOD
+Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your word. Accept Correction. Stay Curious. Be Courageous. 
+
+## Workout
+* Push
+* Pull
+* Squats
+1.Deadhang : 3 x 60s
+2. Plank : 3 x 30s - Hollow body
+3. Wall sit : 2 x 60s
 
 ## finance:
 * Zerodha Varsity
@@ -9,11 +18,8 @@
 * MF/ETF focus: Read about asset allocation, index vs active funds
 
 **TO-DO**:
-* kinderjoy excel sheet Mad tho talk stranger things and others
 * complete the app today
 * ML - study and apply - Memoria project after app is done.
-* Princess laptop repair
-* Varshitha towers post
 
 ## Side Quests:
 * https://zenodo.org/records/20286199 - add to cv
@@ -32,70 +38,6 @@
 Advanced topics: Transformers, LLMs/RAG depth (you have RAG — expand with evaluation, vector DB specifics like FAISS/Pinecone, retrieval metrics).
 4) increase metrics on scale(data size, users, cost savings), business impact challengs overcome. NuScrapper is low improve it. use star like bullets and add github links and live demos
 5) sql + spark or larger datasets, GoLang is nice-to-have for backend/performance, communication(explaining models), vcs depth. 
-
-## ML Topics to cover:
-0: Fundamentals
-- Numpy
-- Matplotlib
-- Pandas
-- Mean, variance, distributions and correlation
-- SQL
-- Maths
-	- Linear Algebra
-	- Probability
-	- Statistics
-	- Calculas
-
-1: ML Fundamentals
-- Linear Regression
-- Logistic Regression
-- Loss functions
-- Gradient Descent
-- Overfitting / Underfitting
-- Train/test split
-
-2: Core ML Models
-- Decision Trees
-- Random Forest
-- KNN
-- Naive Bayes
-- Basic Feature Engineering
-
-3: ML
-- cross-validation
-- Evaluation metrics
-- Data Leakage
-- Handling missing data
-- Pipelines
-
-4: Backend + Deploy
-- APIs (FastAPI)
-- Model serving
-- Docker Basics
-- Logging
-
-5: MLOps Fundamentals
-- Experiment tracking
-- Model versioning
-- CI/CD basics
-- Data pipelines
-** Tools: MLflow, Docker **
-
-6: Deep Learning
-- Neural Networks
-- Backpropagation
-- CNN basics
-
-7: GenAI
-- Transformers
-- Embeddings
-- Prompt Engineering
-- RAG(Retrieval-Augmented Generation)
-
-8: Advanced MLOps + scale
-- Distributed training
-- Kubernetes
-- Monitering models in production
 
 ## Main Quest:
 * Burn for rust to develop ML - TTS library for linux
