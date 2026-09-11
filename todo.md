@@ -1,6 +1,6 @@
-#si Scribbles of the Tax Collector
+# Scribbles of the Tax Collector
 
-## As long as Gladys is happy - All Glory to GOD
+## Happy Gladys, Happy world - All Glory to GOD
 Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your word. Accept Correction. Stay Curious. Be Courageous. 
 
 ## Workout
@@ -8,8 +8,11 @@ Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your
 * Pull
 * Squats
 1.Deadhang : 3 x 60s
-2. Plank : 3 x 30s - Hollow body
 3. Wall sit : 2 x 60s
+2. Plank : 3 x 30s - Hollow body
+* crucifix crunch
+* core hold series
+* side plank rises
 
 ## finance:
 * Zerodha Varsity
@@ -20,6 +23,10 @@ Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your
 **TO-DO**:
 * complete the app today
 * ML - study and apply - Memoria project after app is done.
+* Naukri Linkedin Indeed and Instahyre - Apply in these sites
+* complete images descriptoins in kinderjoyverse
+* add a new feature: show related toys and also toys from the same set
+* logos
 
 ## Side Quests:
 * https://zenodo.org/records/20286199 - add to cv
