@@ -140,6 +140,7 @@
 - How dare you
 - pursuit of jade
 - The Sign 2023
+- Flower of Evil
 - Pls.Love
 - My Marvellous Dream Is You 2024
 - love beyond the grave
@@ -152,6 +153,7 @@
 - In Love Forever (2026)
 - Girl from Nowhere
 - Ashes to Crown (2026)
+- Beyond Evil
 - My Marvellous Dream Is You
 - Affair (2024),
 -  Hometown Romance
@@ -164,7 +166,6 @@
 - Enldess Summer
 - By your side
 - The Ordinary Jackpot
-- When the weather is fine
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24

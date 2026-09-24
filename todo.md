@@ -14,19 +14,16 @@ Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your
 * core hold series
 * side plank rises
 
+**TO-DO**:
+* ML - study and apply - Memoria project after app is done.
+* Naukri Linkedin Indeed and Instahyre - Apply in these sites Indeed, Glassdoor
+* Spotyt from spot to yt
+
 ## finance:
 * Zerodha Varsity
 * let's talk Money - Monika Halan
 * The intelligent investor by Benjamin Graham
 * MF/ETF focus: Read about asset allocation, index vs active funds
-
-**TO-DO**:
-* complete the app today
-* ML - study and apply - Memoria project after app is done.
-* Naukri Linkedin Indeed and Instahyre - Apply in these sites
-* complete images descriptoins in kinderjoyverse
-* add a new feature: show related toys and also toys from the same set
-* logos
 
 ## Side Quests:
 * https://zenodo.org/records/20286199 - add to cv
