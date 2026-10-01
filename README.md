@@ -1,9 +1,7 @@
 <div align="center">
-    <h1>【 📓 Personal Notes & Second Brain 】</h1>
+    <h1>【 Personal Notes & Second Brain 】</h1>
     <h3>Welcome!</h3>
 </div>
-
-Open [[00 Meta/Dashboard|Dashboard]] for the central navigation hub.
 
 ## 🗂️ Vault Structure
 

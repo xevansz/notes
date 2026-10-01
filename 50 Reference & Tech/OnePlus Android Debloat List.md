@@ -155,5 +155,9 @@ com.android.systemui.accessibilitymenu
 com.android.egg
 ```
 
+## 7. Cases
+* https://millioncases.in/products/prime-radiant-loop-matte-guard-case?variant=50909638459698
+* https://millioncases.in/products/ultra-thin-plating-frameless-case-oneplus?variant=50502774227250
+
 ---
 *Related: [[00 Meta/Dashboard|Dashboard]]*

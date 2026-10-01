@@ -105,6 +105,7 @@ flowchart LR
 - [OS Playlist](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 - [DBMS Playlist](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
 - [Himanshu Singour: How I Learned System Design](https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367)
+- [A platform to learn SD](https://github.com/akshay-k-r/Interview-Prep-Resource)
 
 ---
 *Related: [[Geohot - What is Programming]] | [[Computer Systems & Hardware]] | [[Programming Fundamentals]]*

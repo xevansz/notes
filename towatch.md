@@ -191,6 +191,9 @@
 - LifeHack
 - The Secret: Dare to Dream
 - Wedding Daze
+- The Early Spring (2026)
+- Fake It Till You Make It (2023)
+- Shining for One Thing (2022)
 - Erin Brockovich
 - Birth 2004
 - The Pirates (2014)

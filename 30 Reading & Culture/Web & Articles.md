@@ -25,7 +25,7 @@ tags:
 - [Ham Vocke's Engineering Blog](https://hamvocke.com/blog/)
 - [Paras Rah's Blog](https://blog.parasrah.com/posts)
 - [Designing Data Engineering Systems (DEDP)](https://www.dedp.online/)
-
+- [Cursor blog](https://cursor.com/blog)
 ---
 
 ## 🧠 Rationality, AI Safety & Philosophy Essays

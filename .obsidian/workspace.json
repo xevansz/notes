@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "138f28c7ceacb6e7",
+        "id": "e58c05a118a95b09",
         "type": "tabs",
         "children": [
           {
-            "id": "a239278ba164fabf",
+            "id": "ad68695eb9b006a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/Resources for Learning.md",
+                "file": "30 Reading & Culture/Web & Articles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources for Learning"
+              "title": "Web & Articles"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,16 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a239278ba164fabf",
+  "active": "a568b02ca69f04e2",
   "lastOpenFiles": [
+    "10 Computer Science/Programming Fundamentals.md",
+    "10 Computer Science/System Design.md",
+    "30 Reading & Culture/Web & Articles.md",
+    "00 Meta/Dashboard.md",
+    "10 Computer Science/Computer Systems & Hardware.md",
+    "10 Computer Science/Cybersecurity.md",
+    "10 Computer Science/Game Dev & Graphics.md",
+    "10 Computer Science/Geohot - What is Programming.md",
+    "10 Computer Science/Machine Learning.md",
+    "20 Career & Mindset/Computational Thinking.md",
+    "20 Career & Mindset/Interview & Communication Tips.md",
+    "30 Reading & Culture/Books to Read.md",
     "towatch.md",
+    "50 Reference & Tech/OnePlus Android Debloat List.md",
+    "todo.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "learning/System Design.md",
     "learning/Resources for Learning.md",
     "learning/Programming.md",
     "learning/Miscellaneous.md",
     "learning/Tips.md",
     "learning/Cybersecurity.md",
-    "todo.md",
     "Books.md",
     "Bible notes/Bibleieeileielei.md",
     "README.md",
@@ -188,27 +203,13 @@
     "Bible notes/Index.md",
     "Bible notes/Why does god let us go through hardships.md",
     "Bible notes",
-    "PUBGM.md",
-    "first_boot.md",
-    "learning/Data Engineering.md",
-    "learning/ML.md",
-    "learning/haskell.md",
     "learn/images/sq_loss.png",
-    "learning/LInks.md",
-    "Data Engineering.md",
-    "project ideas & useful links.md",
-    "Anime and Dramas and Movies.md",
-    "busy beaver.md",
-    "tips.md",
-    "haskell.md",
-    "ecercies.md",
     "csIv6ewi.bck",
     "csN5XVUx.bck",
     "csyrtqEy.bck",
     "csrVLJJw.bck",
     "csQ2NqBV.bck",
     "cs6nikNJ.bck",
-    "cszG76Q3.bck",
-    "csUKXuZL.bck"
+    "cszG76Q3.bck"
   ]
 }

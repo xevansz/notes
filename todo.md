@@ -18,6 +18,9 @@ Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your
 * ML - study and apply - Memoria project after app is done.
 * Naukri Linkedin Indeed and Instahyre - Apply in these sites Indeed, Glassdoor
 * Spotyt from spot to yt
+* Bible, change data, jermiaah 51:4 - doesn't exist
+* Bible Add fonts. 
+* motor full alert
 
 ## finance:
 * Zerodha Varsity
