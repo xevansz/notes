@@ -26,12 +26,12 @@ $$\text{Input} \longrightarrow \text{System (Computation)} \longrightarrow \text
 - **RAM**: Instructions + Data.
 
 ### Anatomy of a Running Program
-| Segment | Purpose |
-| :--- | :--- |
-| `text` | Instructions (executable machine code) |
-| `bss` | Static / uninitialized data |
+| Segment | Purpose                                     |
+| :------ | :------------------------------------------ |
+| `text`  | Instructions (executable machine code)      |
+| `bss`   | Static / uninitialized data                 |
 | `stack` | Local variables & control flow (call stack) |
-| `heap` | Dynamic memory allocation (`malloc`) |
+| `heap`  | Dynamic memory allocation (`malloc`)        |
 
 ```c
 void a() {

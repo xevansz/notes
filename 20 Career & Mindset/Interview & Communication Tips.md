@@ -12,6 +12,8 @@ tags:
 > *"Be a blank canvas. Don't be afraid to fill it. Make it bloom."*
 > *"The most important tool is respect."*
 
+### Preparation
+* https://www.youtube.com/watch?v=d0yM6h0XRxk
 ---
 
 ## 🎤 The 3-Step Self-Introduction Formula

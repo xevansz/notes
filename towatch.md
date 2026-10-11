@@ -165,7 +165,6 @@
 - Legend of Zang Hai (2025)
 - Enldess Summer
 - By your side
-- The Ordinary Jackpot
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
@@ -207,13 +206,12 @@
 - Kingdom of Heaven
 ## TV show
 - leonardo
+- Dexter  - s8 netflix and  new ones. 
+- breaking bad
 - Afterlife
 - Impulse teleportation skill
 - Adolescence
 - war machine
 - Spartacus: House of Ashur
-- Dirk Gently's Holistic Detective Agency
 ## Novel
-Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine and another one with a spoilery name
-https://novelfull.com/the-formidable-son-in-law-the-charismatic-lucas-gray.html?page=15
-https://m.novel-cat.com/bookDetail/17508317606/about/liked/Peerless-Son-in-law
+Invincible Mumu, Absolute Sword Sense, Myst Might and Mayhem, Nano Machine 150? I think and another one with a spoilery name

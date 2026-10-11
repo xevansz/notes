@@ -33,4 +33,7 @@ tags:
 - [Symmetric Key Cryptography Reference](https://flylib.com/books/en/1.274.1/symmetric_key_cryptography.html)
 
 ---
+### Intresting things
+* Vlans - https://www.youtube.com/watch?v=nuhh_KfCz9M
+---
 *Related: [[Computer Systems & Hardware]] | [[Geohot - What is Programming]]*

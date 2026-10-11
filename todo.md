@@ -1,7 +1,19 @@
 # Scribbles of the Tax Collector
 
-## Happy Gladys, Happy world - All Glory to GOD
-Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your word. Accept Correction. Stay Curious. Be Courageous. 
+## Happy Gladys, Happy world! She's worth a lot - All Glory to GOD
+**The less your entire identity depends on getting her, the more genuinely capable you become of loving her well**
+
+### Mantle of my name.
+Patience. The ability to lead without controlling. To cover without suffocating. To love without losing yourself. Kind, Self seeking
+Become spiritually deeper.
+Become intellectually sharper.
+Become professionally capable.
+Become physically stronger.
+Become financially responsible.
+Become calmer.
+Become humbler.
+Become dependable.
+Become a man whose word means something.
 
 ## Workout
 * Push
@@ -21,6 +33,7 @@ Seek God. Honesty. Work. Self Control. Listen Carefully. Serve People. Keep your
 * Bible, change data, jermiaah 51:4 - doesn't exist
 * Bible Add fonts. 
 * motor full alert
+* Research: supply demand. over supply. selliing after 12years. can we sell the land after 4 or 5 years. current rate vs future rate. Grade C sandle wood
 
 ## finance:
 * Zerodha Varsity
