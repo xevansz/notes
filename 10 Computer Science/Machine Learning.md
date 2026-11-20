@@ -39,6 +39,7 @@ $$\text{Inputs / Features } (X) \longrightarrow \left[ \text{Model Parameters } 
 - [Krish Naik — Machine Learning & Deep Learning](https://www.youtube.com/watch?v=JxgmHe2NyeY&t=476s)
 - [Charlotte Moser — Math & Foundations for ML](https://www.youtube.com/@charlottemoser6235/videos)
 - [The Coding Train — Neural Networks Playlist](https://youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
+- [RoadMap](https://hyperskill.org/knowledge-map/0)
 
 ---
 

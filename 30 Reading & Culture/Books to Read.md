@@ -27,6 +27,10 @@ tags:
 - [ ] *Notes from Underground*
 - [ ] *White Nights*
 - [ ] *Demons*
+- [ ] Brothers Karmazov
+
+### Yuval Noah Harari
+- [ ] Sapiens
 
 ### Ernest Hemingway
 - [ ] *A Farewell to Arms*
@@ -60,6 +64,7 @@ tags:
 
 ### Friedrich Nietzsche
 - [ ] *Beyond Good and Evil*
+- [ ] This Spake Zarathustra
 - [ ] *On the Genealogy of Morals*
 - [Nietzsche Video Analysis](https://www.youtube.com/watch?v=-QtIVv-oz5Y&t=90s)
 

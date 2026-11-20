@@ -23,7 +23,6 @@
 - Filter
 - Chief Detective 1958 
 - glory
-- Dear X
 - Twelve letters
 - Justice in the dark
 - undercover miss hong
@@ -39,7 +38,7 @@
 - our drama
 - The Player 2: Master of Swindlers
 - Even If This Love Disappears from the World Tonight
-- The Art of Sarah
+- The Art of Sarah (2026)
 - Undercover Miss Hong
 - Recipe for love (Boring)
 - Couple of Mirrors
@@ -47,10 +46,9 @@
 - Legend of Yunxi
 - Cashero
 - Beyond the Bar (2025)
-- Typhoon Family
+- Typhoon Family - netflix
 - My Dearest
 - About Love - check it out
-- The Princess Royal
 - Dear Hongrang
 - Confidence Queen
 - Siren's kiss
@@ -80,7 +78,6 @@
 - Bring It On, Ghost (2016)
 - Dear M
 - The witch 
-- The art of sarah 
 - Our blues
 - The glory
 - Island 2022
@@ -97,19 +94,15 @@
 - My roomate is a gumiho 
 - When life give you oranges
 - Death's game part 2
-- Romantics anonymous
 - blood free
 - moving
 - Story of the kunning palace
 - Sword and Fairy
 - wonderland of love
-- Moonlit reunion
-- Pursuit of jade
 - Mobius
 - Deep Affection Eyes
 - Guess Who I Am
 - My Royal Nemesis (2026)
-- fangs of fortune
 - The trunk 
 - Love me
 - Perfect Match (2025)
@@ -123,13 +116,8 @@
 - Good partner
 - 365: repeat year
 - The witches diner
-- Fireworks of my heart
 - Only for love
 - 19th Floor
-- Destined to Meet You (2022)
-- My boss
-- crown prince - IU
-- How to Be a Perfect Dad (2022)
 - Kleun Cheewit (2017)
 - Reverse 4 You (2024)
 - 23.5 (2024)
@@ -137,12 +125,8 @@
 - The Loyal Pin (2024)
 - Summit of Our Youth (2025)
 - My Royal Nemesis (2026)
-- How dare you
-- pursuit of jade
 - The Sign 2023
 - Flower of Evil
-- Pls.Love
-- My Marvellous Dream Is You 2024
 - love beyond the grave
 - love designer
 - Generation to Generation (2026)
@@ -165,6 +149,35 @@
 - Legend of Zang Hai (2025)
 - Enldess Summer
 - By your side
+- If You Love
+- My Royal Nemesis (2026)
+- Extreme Job (2019)
+- Lunar Secret
+- Where the Mask Ends (2026)
+- Genius Girlfriend (2026)
+- Pls Love (2026)
+- hot stove league - netflix 
+- idol i - netllfllix epi 7 
+- fragrance of the first flower - netwlifx
+- ccashero - netflix 
+- take charge of my heart - netflix 
+- Teh price of coonfession - netflix 
+- 100 days of decception 
+- oh my ghost cccllients 
+- juvenile justice 
+- The Scandal 
+- Made in Korea 
+- Teh Last House 
+- Revelatiosn
+- Oxytocin
+- love on Hire
+- My Boss I Love You (2026)
+- Under Her Rules
+- Love Me to Hurt Me (2026)
+- Taming the Husband (2026)
+- A Splendid Match (2026)
+- The Double (2024)
+- sins of kujo - netflix
 ### Currently watching
 - love story in the 70's ep 2
 - Moonlit reunion ep24
@@ -204,6 +217,11 @@
 - District13 Ultimatum
 - Sun Moon
 - Kingdom of Heaven
+- The Three Musketeers: D'artagnan
+- The Longest Ride
+- Beast - idris ilba
+- Old School
+- In time
 ## TV show
 - leonardo
 - Dexter  - s8 netflix and  new ones. 

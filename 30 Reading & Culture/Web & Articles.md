@@ -26,6 +26,7 @@ tags:
 - [Paras Rah's Blog](https://blog.parasrah.com/posts)
 - [Designing Data Engineering Systems (DEDP)](https://www.dedp.online/)
 - [Cursor blog](https://cursor.com/blog)
+- [Jet Brains](https://blog.jetbrains.com/education/)
 ---
 
 ## 🧠 Rationality, AI Safety & Philosophy Essays

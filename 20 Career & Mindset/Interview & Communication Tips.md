@@ -48,4 +48,7 @@ Avoid boring recitations of job titles. Structure introductions to hook, prove, 
 - Build tangible end-to-end projects.
 
 ---
+### Applying Tips
+* https://www.youtube.com/watch?v=FjILNkbUBwI
+---
 *Related: [[Computational Thinking]] | [[Books to Read]]*

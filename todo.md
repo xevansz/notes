@@ -2,6 +2,7 @@
 
 ## Happy Gladys, Happy world! She's worth a lot - All Glory to GOD
 **The less your entire identity depends on getting her, the more genuinely capable you become of loving her well**
+**Losing sleep for your dreams is better than dreaming about them**
 
 ### Mantle of my name.
 Patience. The ability to lead without controlling. To cover without suffocating. To love without losing yourself. Kind, Self seeking
@@ -15,6 +16,15 @@ Become humbler.
 Become dependable.
 Become a man whose word means something.
 
+**TO-DO**:
+* ML - study and apply - Memoria project after app is done.
+* Naukri Linkedin Indeed and Instahyre - Apply in these sites Indeed, Glassdoor
+* motor full alert
+* Mahi pop corn research
+* Newroop website
+* torah - church things
+* Memoria - Gladys
+
 ## Workout
 * Push
 * Pull
@@ -26,15 +36,6 @@ Become a man whose word means something.
 * core hold series
 * side plank rises
 
-**TO-DO**:
-* ML - study and apply - Memoria project after app is done.
-* Naukri Linkedin Indeed and Instahyre - Apply in these sites Indeed, Glassdoor
-* Spotyt from spot to yt
-* Bible, change data, jermiaah 51:4 - doesn't exist
-* Bible Add fonts. 
-* motor full alert
-* Research: supply demand. over supply. selliing after 12years. can we sell the land after 4 or 5 years. current rate vs future rate. Grade C sandle wood
-
 ## finance:
 * Zerodha Varsity
 * let's talk Money - Monika Halan
@@ -43,21 +44,11 @@ Become a man whose word means something.
 
 ## Side Quests:
 * https://zenodo.org/records/20286199 - add to cv
-* research about the LG fridge
 * CC cams research
 * Salesforce - https://trailhead.salesforce.com/
-* make a reel and post on trip vampire weekend
 * chess, japanese.
 * render cubes and make them move using your arrow keys - graphics programming.
 * https://learnopengl.com
-
-## Resume - Look Good
-1) Deep learning Framworks - include a project in pytorch/TF&keras and Hugging Face for LLMs/GenAI
-2) Learn kubernetes and CI/CD for ML(Mlflow, Airflow, kuberflow), model monitoring, data drift, A/B testing, inference optimization (ONNX, TorchServe). AWS (EC2/S3) basics include SageMaker, Lamdba or full pipelines
-3) Math - JDs stress probability, statistics, linear algebra, optimization. Your MS helps, but explicitly call out coursework/projects (e.g., in RL: MDP, Q-learning details; evaluation metrics beyond F1).
-Advanced topics: Transformers, LLMs/RAG depth (you have RAG — expand with evaluation, vector DB specifics like FAISS/Pinecone, retrieval metrics).
-4) increase metrics on scale(data size, users, cost savings), business impact challengs overcome. NuScrapper is low improve it. use star like bullets and add github links and live demos
-5) sql + spark or larger datasets, GoLang is nice-to-have for backend/performance, communication(explaining models), vcs depth. 
 
 ## Main Quest:
 * Burn for rust to develop ML - TTS library for linux

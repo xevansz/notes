@@ -10,6 +10,8 @@ tags:
 
 > *"Apply computational thinking to the entire world. Systematize chaos into models and actionable steps."*
 
+[Love, learning and computing education](https://www.youtube.com/watch?v=iaT_zvNN_zc)
+
 ---
 
 ## The Four Pillars

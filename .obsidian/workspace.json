@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b5d12caa220ec94",
+            "id": "986ccbfb7f963961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Computer Science/Geohot - What is Programming.md",
+                "file": "towatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geohot - What is Programming"
+              "title": "towatch"
+            }
+          },
+          {
+            "id": "55b95db6d3237799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Reading & Culture/Books to Read.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books to Read"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,25 +186,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5d12caa220ec94",
+  "active": "55b95db6d3237799",
   "lastOpenFiles": [
-    "10 Computer Science/Programming Fundamentals.md",
+    "towatch.md",
+    "30 Reading & Culture/Books to Read.md",
+    "todo.md",
+    "00 Meta/Dashboard.md",
+    "20 Career & Mindset/Study tracker.md",
     "20 Career & Mindset/Computational Thinking.md",
+    "30 Reading & Culture/Web & Articles.md",
+    "10 Computer Science/Machine Learning.md",
+    "10 Computer Science/System Design.md",
     "20 Career & Mindset/Interview & Communication Tips.md",
+    "10 Computer Science/Geohot - What is Programming.md",
+    "10 Computer Science/Programming Fundamentals.md",
     "todo.mdb0kKYo.bck",
     "todo.mdujmsoT.bck",
     "10 Computer Science/Cybersecurity.md",
-    "towatch.md",
-    "00 Meta/Dashboard.md",
-    "30 Reading & Culture/Web & Articles.md",
-    "10 Computer Science/System Design.md",
     "10 Computer Science/Computer Systems & Hardware.md",
     "10 Computer Science/Game Dev & Graphics.md",
-    "10 Computer Science/Geohot - What is Programming.md",
-    "10 Computer Science/Machine Learning.md",
-    "30 Reading & Culture/Books to Read.md",
     "50 Reference & Tech/OnePlus Android Debloat List.md",
-    "todo.md",
     "Untitled.base",
     "Untitled.canvas",
     "learning/System Design.md",
